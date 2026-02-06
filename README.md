@@ -66,9 +66,11 @@ print("Classification Report:\n", classification_report_output)
 
 
 ## Output:
-
-<img width="1279" height="330" alt="384694261-6d3166e2-7fd9-4582-8729-4ba68a64036b" src="https://github.com/user-attachments/assets/79cd9546-35a1-483a-bfdf-ec418754da41" />
-<img width="1141" height="345" alt="384694385-3e4ee2fa-f457-4c2c-a13a-d4791707c7d7" src="https://github.com/user-attachments/assets/584fd46e-0d49-4a15-afe0-a8aa395a61f0" />
+<img width="1279" height="330" alt="384694261-6d3166e2-7fd9-4582-8729-4ba68a64036b" src="https://github.com/user-attachments/assets/7ceddf37-e016-45a4-9c66-0642267db14e" />
+<img width="1141" height="345" alt="384694385-3e4ee2fa-f457-4c2c-a13a-d4791707c7d7" src="https://github.com/user-attachments/assets/5a78347a-7b0e-4d93-9d8c-8bc705f5e039" />
+<img width="1122" height="707" alt="384694436-b0e4a287-35b1-4c2d-b386-d20f8f62b772" src="https://github.com/user-attachments/assets/f0bcfb8d-3cfe-4eb4-89d1-df1ab8ce50bd" />
+<img width="1231" height="309" alt="384694500-49664d5e-2913-456b-95fa-dd7ae5a15637" src="https://github.com/user-attachments/assets/f98a50ef-0767-4aab-8fcc-fb21056f9c59" />
+<img width="1217" height="524" alt="384694700-f1591a15-9289-4a4e-a284-20d5b58298b3" src="https://github.com/user-attachments/assets/703b3928-d663-4e77-8a1b-46babeb6c593" />
 
 
 ## Result:
